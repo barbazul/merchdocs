@@ -9,7 +9,7 @@ The following example shows how to set up GST tax rates for Canada and PST tax
 
 ## Step 1: Complete tax calculation settings
 
-1. On the _Admin_ menu, go to **System** > **Configuration**.
+1. On the _Admin_ menu, go to **Store** > **Configuration**.
 
 1. In the left panel, expand **Sales** and select **Tax**.
 
